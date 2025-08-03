@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-- 💡 I specialize in frontend development with a strong eye for UI/UX
+- 💡 I specialize in frontend development for UI/UX
 - ⚙️ I also work with backend tools when needed (Spring Boot, PostgreSQL, MongoDB)
 - 🎯 Always learning new frameworks, tools, and best practices
 - 🌎 Based in Mexico
