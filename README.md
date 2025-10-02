@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋 I'm Luis Ángel Zamora Vega</h1>
+<h1 align="center">Hello, my name is Luis Ángel Zamora Vega.</h1>
 
-<p align="center">A Frontend-leaning Full Stack Developer passionate about building clean, functional and modern web applications.</p>
+<p align="center">A frontend-leaning Full Stack Developer passionate about building clean, functional and modern web applications.</p>
 
 ---
 
