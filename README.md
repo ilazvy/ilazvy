@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
@@ -21,13 +23,13 @@
 
 ### 👨‍💻 About Me
 
-- 💡 I specialize in frontend development for UI/UX
-- ⚙️ I also work with backend tools when needed (Spring Boot, PostgreSQL, MongoDB)
-- 🎯 Always learning new frameworks, tools, and best practices
-- 🌎 I'm from Mexico
+* 💡 I specialize in frontend development for UI/UX
+* ⚙️ I also work with backend tools when needed (Spring Boot, PostgreSQL, MongoDB)
+* 🎯 Always learning new frameworks, tools, and best practices
+* 🌎 I'm from Mexico
 
 ---
 
 ### 📬 Contact Me
 
-- 📧 luisangelzamoravega@gmail.com 
+* 📧 [luisangelzamoravega@gmail.com](mailto:luisangelzamoravega@gmail.com)
