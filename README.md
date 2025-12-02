@@ -4,7 +4,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
@@ -24,15 +24,16 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-* 💡 I specialize in frontend development for UI/UX
-* ⚙️ I also work with backend tools when needed (Spring Boot, PostgreSQL, MongoDB)
-* 🎯 Always learning new frameworks, tools, and best practices
-* 🌎 I'm from Mexico
+* I specialize in frontend development for UI/UX.
+* I also work with backend tools when needed (Spring Boot, PostgreSQL, MongoDB).
+* Always learning new frameworks, tools, and best practices.
+* I'm from Mexico.
+* Spanish is my first language, I can understand English and I'm currently improving my speaking skills.
 
 ---
 
-### 📬 Contact Me
+### Contact Me
 
-* 📧 [luisangelzamoravega@gmail.com](mailto:luisangelzamoravega@gmail.com)
+* [luisangelzamoravega@gmail.com](mailto:luisangelzamoravega@gmail.com)
