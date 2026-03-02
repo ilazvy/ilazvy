@@ -1,39 +1,64 @@
-<h1 align="center">Hello, my name is Angel Zamora.</h1>
+<div align="center">
 
-<p align="center">A frontend-leaning Full Stack Developer passionate about building clean, functional and modern web applications.</p>
+# Angel Zamora
+
+### Frontend-leaning Full Stack Developer
+
+*Building clean, functional and modern web applications.*
+
+[![Email](https://img.shields.io/badge/ilazvy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilazvy@gmail.com)
+[![Mexico](https://img.shields.io/badge/Mexico-006847?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+
+</div>
 
 ---
 
-### Tech Stack
+## About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Apidog-F36D00?style=for-the-badge&logo=postman&logoColor=white" alt="Apidog" />
+I'm a developer with a strong focus on **frontend development and UI/UX**, building interfaces that are both visually clean and highly functional. When needed, I extend my work into backend systems using Spring Boot, PostgreSQL, and MongoDB.
 
+-  Passionate about crafting polished, user-centered interfaces
+-  Full stack capable — from REST APIs to responsive UIs
+-  Always exploring new frameworks, tools, and best practices
+-  Based in Mexico — native Spanish speaker, improving English communication
+-  Game development hobbyist with Unity & C#
+
+---
+
+## Tech Stack
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### Game Development
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
+
+### Tools & Testing
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apidog-F36D00?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-### About Me
+## Contact
 
-* I specialize in frontend development for UI/UX.
-* I also work with backend tools when needed (Spring Boot, PostgreSQL, MongoDB).
-* Always learning new frameworks, tools, and best practices.
-* I'm from Mexico.
-* Spanish is my first language, I can understand English and I'm currently improving my speaking skills.
+Have a project in mind or just want to connect?
 
----
-
-### Contact Me
-
-* [ilazvy@gmail.com](mailto:ilazvy@gmail.com)
+**[ilazvy@gmail.com](mailto:ilazvy@gmail.com)**
