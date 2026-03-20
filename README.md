@@ -20,8 +20,8 @@ I'm a developer with a strong focus on **frontend development and UI/UX**, build
 -  Passionate about crafting polished, user-centered interfaces
 -  Full stack capable — from REST APIs to responsive UIs
 -  Always exploring new frameworks, tools, and best practices
--  Based in Mexico — native Spanish speaker, improving English communication
--  Game development hobbyist with Unity & C#
+-  From Mexico — native Spanish speaker, improving English communication
+-  Game development hobbyist with Unity & C# (not too good btw)
 
 ---
 
