@@ -1,80 +1,96 @@
-<h1 align="center">Hi, I'm Angel Zamora</h1>
+# Hi, I'm Angel Zamora 👋
 
 <p align="center">
-Software Engineer focused on Data Analysis, SQL and Business Intelligence.
+  <strong>Software Development & Management Engineer | Backend Developer</strong>
+</p>
+
+<p align="center">
+  Focused on Java, Spring Boot, SQL and Backend Engineering.
 </p>
 
 ---
 
 ## About Me
 
--  Software Engineer
--  Enjoy working with databases more than building interfaces
--  Interested in Data Analytics, SQL and Excel
--  Currently learning Power BI and improving my SQL skills
--  Looking to grow as a Data Analyst
+I'm a Software Development and Management Engineer passionate about backend development, databases and problem-solving.
 
----
+I have previous experience working on full-stack development projects, where I discovered that my strongest interest lies in backend engineering, database management and automation rather than frontend development.
+
+During my professional internship, I:
+
+- Used Selenium for web scraping to collect information from an existing website as part of a redesign project.
+- Developed PostgreSQL scripts to update and manage database records.
+- Gained experience working in a full-stack development environment.
+
+I'm currently focusing my professional growth on backend development, with the goal of building reliable applications, well-structured APIs and efficient database solutions.
 
 ## Tech Stack
 
-### Languages
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,spring" alt="Java and Spring"/>
 </p>
+
+- Java
+- Spring Boot
+- REST API Development
+- Object-Oriented Programming
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL and MySQL"/>
 </p>
 
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,linux" />
-</p>
-
-### Currently Working With
-
-- Microsoft Excel
-- Power Query
 - SQL
 - PostgreSQL
-- Power BI (Learning)
+- MySQL
+- Relational Database Design
+- Database Management
 
----
+### Tools & Automation
 
-## What I Like
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,linux" alt="Development tools"/>
+</p>
 
-I enjoy transforming raw data into useful information.
+- Git & GitHub
+- IntelliJ IDEA
+- Eclipse
+- Selenium
+- Linux
 
-Whether it's writing SQL queries, designing relational databases or building dashboards, I like finding patterns and solving problems through data.
+## Current Focus
 
----
+I'm dedicating my professional development to becoming a stronger backend engineer.
 
-## Current Goals
+My current learning priorities are:
 
-- Master Excel for Business
-- Become an Advanced SQL User
-- Learn Power BI
-- Learn Python for Data Analysis
-- Build Data Portfolio Projects
+- Deepening my Java knowledge and object-oriented programming.
+- Developing backend applications with Spring Boot.
+- Designing and consuming REST APIs.
+- Improving SQL skills and PostgreSQL database management.
+- Learning backend architecture and software design principles.
+- Writing maintainable, testable and well-documented code.
+- Understanding authentication, authorization and application security.
 
----
+## What I Enjoy Building
 
-## Featured Projects
+- Backend applications and REST APIs.
+- Database-driven applications.
+- SQL queries and database automation.
+- Backend services with clean and maintainable architecture.
+- Solutions that automate processes and solve practical problems.
 
-Coming soon...
+## Career Objective
 
--  AgroAnalytics
--  SQL Interview Challenges
--  Excel Dashboards
--  PostgreSQL Database Design
+My goal is to specialize in backend engineering, strengthen my Java and SQL skills, and contribute to professional software development teams building reliable backend systems.
+
+I'm particularly interested in opportunities involving Java, Spring Boot, PostgreSQL and relational databases.
 
 ---
 
 <p align="center">
-<i>"Good decisions come from good data."</i>
+  <i>"Build systems that solve problems, not just features."</i>
 </p>
